@@ -29,16 +29,16 @@ The final dashboard allows users to:
 - View total revenue and product performance trends.  
 - Identify top-performing regions and platforms.
 
-## 👩‍💻 My Role
+## My Role
 Performed data cleaning, created pivot tables, and built interactive Excel dashboards to visualize platform-wise and quarterly sales.
 
-## 📁 Project Files
+## Project Files
 - `Vrinda Store Data Analysis.xlsx` – Contains the cleaned dataset, pivot tables, and dashboard.
 
-## 🚀 How to Use
+## How to Use
 1. Download the Excel file from this repository.  
 2. Open it in Microsoft Excel (preferably 2016 or later).  
 3. Explore the dashboard using slicers and filters.  
 
-## 📝 Conclusion
+## Conclusion
 The analysis helps understand which platforms generate the most revenue and when sales peak, supporting data-driven marketing and inventory decisions.
